@@ -10,9 +10,7 @@ Bedient euch am Code :)
        src="https://developer.android.com/images/brand/de_app_rgb_wo_60.png" />
 </a>
 
-IBAN-Rechner
-
-**IBAN-Rechner**
+**IBAN-Rechner - Dokumentation**
 
 **Aufgabe**
 
@@ -72,8 +70,6 @@ IBAN soll in Java umgesetzt werden:
 -   → **IBAN= DE + Prüfsumme + BLZ + (Nullen zum Auffüllen der
     Kontonummer) + Kontonummer**
 
-\
-\
 
 **Algorithmus zur Überprüfung der IBAN**
 
