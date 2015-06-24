@@ -96,3 +96,7 @@ IBAN soll in Java umgesetzt werden:
 [http://www.iban.de/iban-pruefsumme.html](http://www.iban.de/iban-pruefsumme.html)
 
 [http://www.pruefziffernberechnung.de/Originaldokumente/IBAN/Prufziffer\_07.00.pdf](http://www.pruefziffernberechnung.de/Originaldokumente/IBAN/Prufziffer_07.00.pdf)
+
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/NiklasMerz/iban-rechner/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
