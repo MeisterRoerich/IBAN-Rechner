@@ -1,7 +1,7 @@
 # IBAN-Rechner
 Kleines Schulprojekt
 
-Diese App berechnet und Prüft IBANs.
+Diese App berechnet und prüft IBANs.
 
 Bedient euch am Code :)
 
